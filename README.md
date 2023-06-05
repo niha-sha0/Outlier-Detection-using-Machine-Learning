@@ -23,3 +23,13 @@
 ##### Z-Score is a highly efficient way of detecting and removing outliers, we cannot use it with every datatype. Which means that it can only work with the data which is completely or close to normally distributed.
 ##### This method is used for normally distributed data.
 ![image](https://github.com/niha-sha0/Outlier-Detection-using-Machine-Learning/assets/87136913/a315453d-6ec6-4a22-a240-ebe9d7643da4)
+
+##### To find outlier - 
+###### Upper Limit - µ + 3 * Standard Deviation
+###### Lower Limit - µ - 3 * Standard Deviation
+
+### IQR BASED FILTERING
+##### This method is used when the distribution of data is skewed.
+![image](https://github.com/niha-sha0/Outlier-Detection-using-Machine-Learning/assets/87136913/8b04dda3-2c68-4d42-86db-5bab17e7c5c5)
+##### As we know that Z-Score is only used for columns that are normally distributed, but we have to find out the way where we can remove the bad data from left and right skewed distribution for that statistics introduced IQR. IQR will work with Skewed Data.
+
