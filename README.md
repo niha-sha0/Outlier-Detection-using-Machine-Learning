@@ -1,3 +1,6 @@
+##### In this project we have used different techniques to detect and remove outlier from the data and compare the techniques to detect outlier which is better among all the techniques. 
+##### It is observered that IQR and DBSCAN techniques are fast to detect and remove outliers.
+
 ### OUTLIER DETECTION USING MACHINE LEARNING
 ##### Outlier is an observation (data point) that behave differently from all other observations.
 ##### In other words, an outlier is an observation that lies an abnormal distance from other values in a random sample from a population.
