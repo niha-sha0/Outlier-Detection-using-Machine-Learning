@@ -22,3 +22,4 @@
 ### Z-SCORE METHOD
 ##### Z-Score is a highly efficient way of detecting and removing outliers, we cannot use it with every datatype. Which means that it can only work with the data which is completely or close to normally distributed.
 ##### This method is used for normally distributed data.
+![image](https://github.com/niha-sha0/Outlier-Detection-using-Machine-Learning/assets/87136913/a315453d-6ec6-4a22-a240-ebe9d7643da4)
