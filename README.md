@@ -9,7 +9,7 @@
 #### How to treat Outlier?
 + ###### Trimming
 - ###### Capping
-* ###### Missing Value (Less Used)
+* ###### Missing Value (Less Used)    
 + ###### Discretization (Less Used)
 
 #### How to detect Outlier?
